@@ -1,0 +1,20 @@
+{
+  "name": "code-retreat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cameron Presley <Cameron@TheSoftwareMentor.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest": "^29.5.13",
+    "@types/node": "^22.5.5",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  },
+  "scripts": {
+    "test": "jest",
+    "test-mars": "jest mars-rover",
+    "test-gol": "jest game-of-life"
+  }
+}
