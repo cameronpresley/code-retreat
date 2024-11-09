@@ -6,5 +6,5 @@ This repository contains a starter kit to be used for Queen City Code Retreat.
 
 1. Clone the repo
 1. Run `yarn install`
-1. Run the Mars Rover test suite with `yarn run mars-test`
-1. Run the Game of Life test suite with `yarn run gol`
+1. Run the Mars Rover test suite with `yarn run test-mars`
+1. Run the Game of Life test suite with `yarn run test-gol`
